@@ -4,8 +4,8 @@ Portfolio-2025 is a modern, interactive portfolio website designed to showcase y
 
 ## Website Live
 
-- [Click Here](https://dinesh-portfolio-2025.netlify.app/)
-- [Click Here](https://dinesh-portfolio.static.domains/)
+- [Click Here](https://dinesh-portfolio-2025.onrender.com/)
+- [Click Here](https://dinesh-portfolio-2025.netlify.app)
 
 ## Features
 
